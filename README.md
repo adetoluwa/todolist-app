@@ -42,9 +42,3 @@ yarn start
 This project is licensed under the MIT License.
 
 Feel free to contribute or report issues!
-
-
-## Demo
-![Screen record of the app functionalitites](https://github.com/abrahamebij/todolist-mobile-app/assets/91433818/c2fe5b52-63a0-4e4c-9906-8faa9dc7a16c)
-
-
