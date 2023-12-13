@@ -30,7 +30,7 @@ export default function App() {
   
   return (
     <>
-    <StatusBar style="auto" className="bg-primary" backgroundColor="rgb(239, 181, 254)" />
+    <StatusBar style="auto" className="bg-primary" backgroundColor="#34a5cf" />
       <View className="px-7 pt-16 h-full w-full bg-gray-200 overflow-y-scroll">
         <Text className="text-2xl font-bold text-center">Today's Tasks</Text>
         <View className="mt-10">
