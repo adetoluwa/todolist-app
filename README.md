@@ -16,7 +16,7 @@ git clone https://github.com/abrahamebij/todolist-mobile-app.git
 
 2. Navigate to the project directory:
 ```bash
-cd todo-expo-tailwind
+cd todolist-mobile-app
 ```
 
 3. Install dependencies:
@@ -26,7 +26,7 @@ yarn install
 ## Usage
 1. Start the Expo development server:
 ```bash
-npm start
+yarn start
 ```
 2. Open the Expo app on your mobile device or use an emulator.
 3. Scan the QR code from the Expo server to load the app.
